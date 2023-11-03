@@ -1,0 +1,7 @@
+Fri Nov  3 20:20:24 UTC 2023
+Filesystem                Size      Used Available Use% Mounted on
+/dev/root                 4.9G      2.3G      2.6G  47% /
+   0 date > myfile.txt
+   1 df -h / >> myfile.txt
+   2 history | tail -n 5 >> myfile.txt
+vendor_id	: AuthenticX86
